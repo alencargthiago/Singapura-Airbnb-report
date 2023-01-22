@@ -104,3 +104,48 @@ GROUP BY
         employee_id,
         first_name
 order by revenue_profit DESC
+
+#=======================================================================================================
+#exercício game of thrones
+#1.Mostra todos house_names na tabela gothouses  com espadas ≥500. O valor está em gotnamed_swords.
+#2.Usando as tabelas gothouses, gotnamed_swords, Mostrar todos os nomes de casas (houses)e nomes de espadas 
+#(swords) ONDE os valores de espada (swords) são os mesmos que os valores de espadas de aço (steel).
+# espadas que contém steel no material 
+
+    SELECT
+            house_name
+    from gothouses
+    where house_id
+    IN
+            (SELECT
+            house_id
+            FROM gotnamed_swords
+            where value >=5000)
+            
+#=======================================================================================================
+    select 
+        house_id, 
+        house_name
+    from 
+        gothouses
+    where 
+        house_id 
+    in 
+        (select house_id
+        from gotnamed_swords
+        where material like "%steel%")
+#=======================================================================================================
+    select 
+    GH.house_id, 
+    GH.house_name,
+    GS.name
+    FROM gothouses as GH
+    JOIN gotnamed_swords as GS     ON GH.house_id = GS.house_id
+
+    where 
+        GH.house_id 
+    in 
+        (select house_id
+        from gotnamed_swords 
+        where material like "%steel%")
+    #=====================================================================================================
