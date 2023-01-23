@@ -1,5 +1,5 @@
 # Singapura Airbnb report
-Análise de negócio apresentada ao [Datascy](https://www.datascy.com).
+Análise de negócio apresentada ao [Datascy](https://www.datascy.com)
 como requisito necessário para obtenção do certificado de análise de dados do curso Master of Data Science and Analytics.
 
 O objetivo deste trabalho é responder a seguinte problemática:
