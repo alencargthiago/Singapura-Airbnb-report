@@ -29,7 +29,7 @@ O [dicionário](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInU
 -  copiar as consultas de sql.
 -  Por fim, para visualização de dados, integrar seu banco de dados no [Tableau](https://www.tableau.com/pt-br/academic/students).
 ## Tópicos principais de aprendizagem
-* SQL
+* **SQL**
   * Comandos de seleção
   * Operadores (Aritméticos, Lógicos, Comparação, "is")
   * Apelidos
@@ -42,17 +42,17 @@ O [dicionário](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInU
   * SubQuery como tabela
   * SubQuery como coluna
   * SubQuery como filtro
-* Git & Git workflow
+* **Git & Git workflow**
   * git clone
   * git add
   * git commit
   * git branch
   * git push
   * git pull
-* GitHub
+* **GitHub**
   * Create a repository
   * Deploy to personal pages
-
+* **
 
 
 
