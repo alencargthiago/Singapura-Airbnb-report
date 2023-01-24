@@ -29,7 +29,7 @@ O [dicionário](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInU
 -  copiar as consultas de sql.
 -  Por fim, para visualização de dados, integrar seu banco de dados no [Tableau](https://www.tableau.com/pt-br/academic/students).
 ## Tópicos principais de aprendizagem
-* comandos básicos de SQL
+* SQL
   * Comandos de seleção
   * Operadores (Aritméticos, Lógicos, Comparação, "is")
   * Apelidos
