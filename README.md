@@ -28,7 +28,7 @@ O [dicionário](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInU
 -  hospedar o conjunto de dados em um DBMS de sua preferência.
 -  copiar as consultas de sql.
 -  Por fim, para visualização de dados, integrar seu banco de dados no [Tableau](https://www.tableau.com/pt-br/academic/students).
-## Tópicos principais de aprendizagem
+## Principais tópicos de aprendizagem
 * **SQL**
   * Comandos de seleção
   * Operadores (Aritméticos, Lógicos, Comparação, "is")
@@ -52,7 +52,6 @@ O [dicionário](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInU
 * **GitHub**
   * Create a repository
   * Deploy to personal pages
-* **
 
 
 
