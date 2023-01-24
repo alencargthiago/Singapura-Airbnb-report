@@ -22,8 +22,12 @@ Devido ao grande volume de dados, diferentes tipos de propriedade e de acomodaç
 - **Room type**: Propriedades Entire home/ apt, shared room, private room e hotel
 - **Bedrooms**: de 1 a 4 quartos
 
-
-
+O [dicionário](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=1322284596) contendo as descrições das variáveis também pode ser acessados através do site do Airbnb inside.
+# Como executar o projeto:
+- 1) baixar o conjunto de dados de Singapore no site do Airbnb inside.
+- 2) hospedar o conjunto de dados em um DBMS de sua preferência.
+- 3) copiar as consultas de sql.
+- 4) Por fim, para visualização de dados, integrar seu banco de dados no [Tableau](https://www.tableau.com/pt-br/academic/students).
 
 
 
