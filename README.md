@@ -23,7 +23,7 @@ Devido ao grande volume de dados, diferentes tipos de propriedade e de acomodaç
 - **Bedrooms**: de 1 a 4 quartos
 
 O [dicionário](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=1322284596) contendo as descrições das variáveis também pode ser acessados através do site do Airbnb inside.
-# Como executar o projeto:
+## Como executar o projeto:
 -  baixar o conjunto de dados de Singapore no site do Airbnb inside.
 -  hospedar o conjunto de dados em um DBMS de sua preferência.
 -  copiar as consultas de sql.
