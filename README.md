@@ -6,6 +6,8 @@ O objetivo deste trabalho é responder a seguinte problemática:
 
 Um investidor pessoal contratou seus serviços. Ele está planejando comprar 10 imóveis de férias para investimento no Airbnb. Com base no desempenho dos imóveis que você analisou, esse é um bom investimento? Quais as recomendações de investimentos?
 
+Para apresentação e visualização de dados acesse: https://www.linkedin.com/posts/alencargthiago_singapura-airbnb-report-activity-7024708316656246784-sbjM?utm_source=share&utm_medium=member_desktop
+
 ## datasource
 
 Os dados são provenientes do site [Airbnb inside]( http://insideairbnb.com) e a análise foi elaborada no seguinte conjunto de dados disponíveis:
